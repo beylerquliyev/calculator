@@ -1,0 +1,28 @@
+
+
+.input1{ width: 200px;
+    height: 50px;
+
+}
+.input1::placeholder {
+    font-weight: bold;
+    font-size: 700;
+    color:black;
+  }
+  .full-calc{
+    display: flex;
+    flex-direction: column;
+    margin-top: 70px;
+    
+
+    align-items: center;
+    gap: 30px;
+  }
+  .inputs{
+    display: flex;
+    gap: 100px;
+  }
+  .btn-full{
+    display: flex;
+    gap: 10px;
+  }
